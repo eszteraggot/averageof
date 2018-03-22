@@ -1,1 +1,1 @@
-# averageof
+# averageofoddnumbers
